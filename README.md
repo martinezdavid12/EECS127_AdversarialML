@@ -49,6 +49,7 @@ python evaluate.py --model trained_model.h5 --test-data test_dataset.csv
 
 ## Approach
 We will follow the approach developed by Wong and Kolter [1] to make neural net classifiers robust. This involves framing neural networks as non-convex optimization problems and applying techniques from EECS127 to prove their robustness.
+**Project Spec:**https://eecs127.github.io/assets/proj/proj_adversarial_prob.pdf
 
 ## Contributers
 "Authors"
