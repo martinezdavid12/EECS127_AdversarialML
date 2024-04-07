@@ -1,4 +1,4 @@
-# Neural Network Robustness using Non-Convex Optimization
+# Neural Network Robustness using Non-Convex Optimization for Adversarial Machine Learning
 
 ## Overview
 In this project, we explore how to make neural net classifiers robust by framing them as a non-convex optimization problem, then using the techniques learned in this class to prove their robustness. In particular, we will follow a technique developed by Wong and Kolter [1].
